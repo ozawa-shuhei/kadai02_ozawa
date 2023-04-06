@@ -54,7 +54,6 @@ img {
 
 ul{
     display: flex;
-    justify-content: flex-end;
 }
 
 li{
@@ -80,7 +79,6 @@ li:last-child{
     li {
         border-bottom: 3px solid black;
         border-right: none;
-        height: 20px;
         margin-bottom: 10px;
     }
     
